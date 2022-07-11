@@ -1,0 +1,2 @@
+module CN_lab {
+}
